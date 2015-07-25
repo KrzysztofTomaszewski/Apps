@@ -1,6 +1,6 @@
 object Form1: TForm1
-  Left = 287
-  Top = 120
+  Left = 292
+  Top = 132
   Width = 672
   Height = 518
   Caption = 'Notatnik Krzyska'

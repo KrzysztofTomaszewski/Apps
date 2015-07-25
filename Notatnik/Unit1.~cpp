@@ -186,9 +186,4 @@ void __fastcall TForm1::Oprogramie1Click(TObject *Sender)
 }
 //---------------------------------------------------------------------------
 
-void __fastcall TForm1::Zapraszamnagoogle1Click(TObject *Sender)
-{
-        ShellExecute(NULL, "open", "http://google.pl", NULL, NULL, SW_SHOWNORMAL);
-}
-//---------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
 object Form2: TForm2
-  Left = 518
-  Top = 183
+  Left = 265
+  Top = 208
   BorderIcons = [biSystemMenu]
   BorderStyle = bsToolWindow
   Caption = 'O programie'
@@ -3519,32 +3519,12 @@ object Form2: TForm2
       59F83BE1C982E6680B4710631C85723DF15B5AC4F25D6BB71E7C8F366C403E63
       16E3F1A28AFC6EBFF16A7A9F50B65E85A849589002400A00028A28AED449FFD9}
   end
-  object Label1: TLabel
-    Left = 144
-    Top = 520
-    Width = 271
-    Height = 29
-    Caption = 'Krzysztof Tomaszewski'
-    Font.Charset = DEFAULT_CHARSET
-    Font.Color = clLime
-    Font.Height = -23
-    Font.Name = 'MS Sans Serif'
-    Font.Style = [fsBold]
-    ParentFont = False
-    Transparent = True
-  end
   object Button1: TButton
     Left = 224
     Top = 480
     Width = 121
     Height = 41
     Caption = 'OK'
-    Font.Charset = DEFAULT_CHARSET
-    Font.Color = clWindowText
-    Font.Height = -23
-    Font.Name = 'MS Sans Serif'
-    Font.Style = [fsBold]
-    ParentFont = False
     TabOrder = 0
     OnClick = Button1Click
   end
